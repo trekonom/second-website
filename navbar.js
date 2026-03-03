@@ -6,6 +6,7 @@ async function loadNavbar() {
       <li><a href="index.html" class="navbar-link" data-page="index">home</a></li>
       <li><a href="work.html" class="navbar-link" data-page="work">work</a></li>
       <li><a href="about.html" class="navbar-link" data-page="about">about</a></li>
+      <li><a href="barchart.html" class="navbar-link" data-page="barchart">bar chart</a></li>
     </ul>
     <div class="navbar-logo">stefan moog</div>
     <div class="social-icons">
